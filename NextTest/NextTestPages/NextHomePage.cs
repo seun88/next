@@ -26,6 +26,7 @@ namespace NextTest.NextTestPages
             validproduct = GetElementById("sli_search_1");
             validproduct.Clear();
 
+
             validproduct.SendKeys("Knitwear");
         }
 
